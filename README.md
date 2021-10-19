@@ -1,5 +1,6 @@
 # Hello_World
-Learning how to start a new project
+
+Time is how we qualify things
 
 Life is good!!!! Learning to contribute and be
 productive....
